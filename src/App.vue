@@ -1,5 +1,5 @@
 <script>
-	import WeComponents from "wecomponents";
+	import WeComponents from "@weadmin/wecomponents";
 
 	let pageFields = [
 		{
