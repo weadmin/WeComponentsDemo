@@ -1,4 +1,4 @@
-# wecomponents-demo
+# WecomponentsDemo
 
 ## Project setup
 ```
